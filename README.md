@@ -3,7 +3,8 @@
 To strengthen my programming skills  
 From the Association of Students of Systems Engineering (AEIS-EPN) the event #30DaysOfCode, in which you can reinforce your programming skills in any language progressively with daily challenges.
 
-## [First Day - Fibonacci(Python)](./Python/fibonacci/README.md)
+- ## [First Day - Fibonacci(Python)](./Python/fibonacci/README.md)
+- ## [Second Day - String Counter(Python)](./Python/caracteres/README.md)
 
 ## [Guide for future challenges](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/)
 - Day 1 to 10 -> Learn the fundamentals of the selected programming language
