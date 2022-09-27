@@ -1,3 +1,5 @@
+# Day 1 - Fibonacci Succession
+
 En matemáticas, la sucesión o serie de Fibonacci es la siguiente sucesión infinita de números naturales: 
 
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597...
