@@ -9,6 +9,7 @@ From the Association of Students of Systems Engineering (AEIS-EPN) the event #30
 - ## [Third Day - Sorting(Python)](./Python/ordenamiento/README.md)
 - ## [Fourth Day - Dates(Python)](./Python/dates/dates.py)
 - ## [Fifth Day - Validations(Python)](./Python/cards/README.md)
+- ## [Fifth Day - Validations(Golang)](./Golang/cards/validation.go)
 
 ## [Guide for future challenges](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/)
 - Day 1 to 10 -> Learn the fundamentals of the selected programming language
