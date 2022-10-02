@@ -8,6 +8,7 @@ From the Association of Students of Systems Engineering (AEIS-EPN) the event #30
 - ## [Second Day - String Counter(Python)](./Python/caracteres/README.md)
 - ## [Third Day - Sorting(Python)](./Python/ordenamiento/README.md)
 - ## [Fourth Day - Dates(Python)](./Python/dates/dates.py)
+- ## [Fifth Day - Validations(Python)](./Python/cards/README.md)
 
 ## [Guide for future challenges](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/)
 - Day 1 to 10 -> Learn the fundamentals of the selected programming language
