@@ -69,16 +69,3 @@ if __name__ == "__main__":
                 print("Invalid option")    
     except KeyboardInterrupt:
         print('An error occurred')
-
-'''
-odes = LinkedList()
-        evens = LinkedList()
-        current = self.head
-        while current:
-            if current.data % 2 == 0:
-                evens.add(current)
-            else:
-                odes.add(current)
-            current = current.next
-        return odes, evens
-'''
